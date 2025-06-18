@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B7k9pyvViV6IB4rIlXC1voTp06lrVnsg11wq1ajEfMQ=",
+  "Source": "MunicipalMoneyAPI",
+  "BasePath": "_content/MunicipalMoneyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
